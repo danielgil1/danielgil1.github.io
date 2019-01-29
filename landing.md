@@ -6,7 +6,7 @@ image: assets/images/pic07.jpg
 nav-menu: true
 show_tile: true
 ---
-
+<a href="#" class="button icon fa-github">GITHUB</a></li>
 <!-- Main -->
 <div id="main">
 
