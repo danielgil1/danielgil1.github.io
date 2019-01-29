@@ -28,7 +28,7 @@ show_tile: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/linal.jpg" alt="" data-position="center center" />
+			<img src="assets/images/rstudio.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
