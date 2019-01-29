@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Data Science Projects
-nav-menu: true
+title: elements
+nav-menu: false
 show_tile: false
 ---
 
