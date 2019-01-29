@@ -19,7 +19,11 @@
       <img src="{{ page.image }}" alt="" />
     </span>
     <header class="major">
-      <h3><a href="{{ page.url | relative_url  }}" class="link">{{ page.title }}</a></h3>
+      <h3><a href="{{ page.url | relative_url  }}" class="link">{{ page.title }}
+      {% if page.layout == 'landing' %}
+      <i class="fa fa-github" aria-hidden="true"></i>
+      {% endif %}
+      </a></h3>
       <p>{{ page.description }}</p>
     </header>
   </article>
