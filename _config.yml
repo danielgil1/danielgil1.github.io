@@ -1,7 +1,7 @@
 # site settings
 title: Projects
 subtitle: Work experience
-email: dfgilto@gmail.com - gild@student.unimelb.edu.au - daniel.gil@unimelb.edu.au
+email: dfgilto@gmail.com
 description: Changing the world through small pieces of software.
 baseurl: "/danielfelipegil.github.io" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
