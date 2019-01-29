@@ -11,6 +11,7 @@ show_tile: true
 <div id="main">
 
 <!-- One -->
+<!-- 
 <section id="one">
 	<div class="inner">
 		<header class="major">
@@ -18,24 +19,27 @@ show_tile: true
 			<a href="https://github.com/danielfelipegil/mathematical-statistics" class="button icon fa-github">github</a>
 		</header>
 		<p>Basic statistical concepts including maximum likelihood, sufficiency, unbiased estimation, confidence intervals, hypothesis testing and significance levels.</p>
-		<p>Estimation of model parameters, hypothesis testing using analysis of variance, model selection, diagnostics on model assumptions, and prediction considering computational techniques, including the EM algorithm, Bayes methods and Monte-Carlo methods.
+		<p>Estimation of model parameters, hypothesis testing using analysis of variance, model selection, diagnostics on model assumptions, and prediction considering computational techniques, including the EM algorithm, Bayes methods and Monte-Carlo methods.</p>
 	</div>
 </section>
+-->
 
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="assets/images/linal.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Mathematical Statistics</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Basic statistical concepts including maximum likelihood, sufficiency, unbiased estimation, confidence intervals, hypothesis testing and significance levels.</p>
+				<p>Estimation of model parameters, hypothesis testing using analysis of variance, model selection, diagnostics on model assumptions, and prediction considering computational techniques, including the EM algorithm, Bayes methods and Monte-Carlo methods.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<a href="https://github.com/danielfelipegil/mathematical-statistics" class="button icon fa-github">github</a>
+					<li><a href="https://danielfelipegil.github.io/mathematical-statistics/" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
