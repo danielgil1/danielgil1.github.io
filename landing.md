@@ -44,7 +44,6 @@ show_tile: true
 			</div>
 		</div>
 	</section>
-	
 	<section>
 		<a href="https://danielfelipegil.github.io/machine-learning/" class="image">
 			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
@@ -62,25 +61,43 @@ show_tile: true
 			</div>
 		</div>
 	</section>
-
-	<!--
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+		<a href="https://danielfelipegil.github.io/artificial-intelligence/" class="image">
+			<img src="assets/images/rl01.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Artificial Intelligence (AI)</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Developing autonomous agents: active entities that perceive their environment, reason, plan and execute appropriate actions to achieve their goals, in service of their users (the real world, human beings, or other agents)</p>
+				<p>
+				Related topics: Reinforcement Learning; Game Theory; Search algorithms and heuristic functions; Classical (AI), probabilistic and non-deterministic planning.
+				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<a href="https://github.com/danielfelipegil/artificial-intelligence" class="button icon fa-github">github</a>
+					<li><a href="https://danielfelipegil.github.io/artificial-intelligence/" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-	-->
+	<section>
+		<a href="https://danielfelipegil.github.io/nlp/" class="image">
+			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Natural Language Processing</h3>
+				</header>
+				<p>Related topics:Text classification algorithms such as logistic regression; Vector space models for natural language semantics; Structured prediction, Hidden Markov models; N-gram language modelling, including statistical estimation;Alignment of parallel corpora, Term indexing, term weighting for information retrieval; Query expansion and relevance feedback</p>
+				<ul class="actions">
+					<a href="https://github.com/danielfelipegil/machine-learning" class="button icon fa-github">github</a>
+					<li><a href="https://danielfelipegil.github.io/machine-learning/" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 </section>
 
 <!-- Three -->
