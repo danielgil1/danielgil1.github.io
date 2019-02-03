@@ -76,7 +76,7 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Software Architect @ Innobile</h3>
+					<h3>TM & Software Architect @ Innobile</h3>
 				</header>
 				<p>
                 <ul>
