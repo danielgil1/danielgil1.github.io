@@ -82,7 +82,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<a href="https://danielfelipegil.github.io/nlp/" class="image">
+		<a href="https://github.com/danielfelipegil/web-search-text-analysis" class="image">
 			<img src="assets/images/qa1.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -92,8 +92,8 @@ show_tile: true
 				</header>
 				<p>Related topics:Text classification algorithms such as logistic regression; Vector space models for natural language semantics; Structured prediction, Hidden Markov models; N-gram language modelling, including statistical estimation;Alignment of parallel corpora, Term indexing, term weighting for information retrieval; Query expansion and relevance feedback</p>
 				<ul class="actions">
-					<a href="https://github.com/danielfelipegil/nlp" class="button icon fa-github">github</a>
-					<li><a href="https://danielfelipegil.github.io/nlp" class="button">Learn more</a></li>
+					<a href="https://github.com/danielfelipegil/web-search-text-analysis" class="button icon fa-github">github</a>
+					<li><a href="https://danielfelipegil.github.io/web-search-text-analysis/" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
