@@ -36,7 +36,8 @@ show_tile: true
 				</header>
 				<p>As a community coordinator, I help to train researchers in emerging digital tools to work smarter in research data analysis, collection and visualisation. The aim of a “Research Community Coordinator” is to engage a community of cross-disciplinary researchers in the use of these skills, specifically in Python programming language for Natural Language Processing.</p>
 				<ul class="actions">
-                    <a href="https://github.com/danielfelipegil/mathematical-statistics" class="button icon fa-linkedin">View on LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/danielgil1/" class="button icon fa-linkedin"></a>
+                    <a href="https://github.com/danielfelipegil/Introduction-to-NLTK" class="button icon fa-github">github</a>
 					<li><a href="https://research.unimelb.edu.au/infrastructure/research-platform-services/training/nltk" class="button">Learn more</a></li>
 				</ul>
 			</div>
@@ -62,6 +63,7 @@ show_tile: true
                 As part of my role I collaborate with my teams which were distributed across the US, Latin America, Spain and India.
                 </p>
 				<ul class="actions">
+                    <a href="https://www.linkedin.com/in/danielgil1/" class="button icon fa-linkedin"></a>
 					<li><a href="https://www.globant.com" class="button">Learn more</a></li>
 				</ul>
 			</div>
@@ -83,6 +85,7 @@ show_tile: true
                 </ul>
                 </p>
 				<ul class="actions">
+                    <a href="https://www.linkedin.com/in/danielgil1/" class="button icon fa-linkedin"></a>
 					<li><a href="http://innobile.com" class="button">Learn more</a></li>
 				</ul>
 			</div>
@@ -108,6 +111,7 @@ show_tile: true
                 </ul>
                 </p>
 				<ul class="actions">
+                    <a href="https://www.linkedin.com/in/danielgil1/" class="button icon fa-linkedin"></a>
 					<li><a href="http://www.ragged.com.co" class="button">Learn more</a></li>
 				</ul>
 			</div>

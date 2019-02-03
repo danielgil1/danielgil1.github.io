@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: landing
-description: 'Python, R, Java'
+description: 'Python, R, Java, C#, Ruby on Rails, C'
 image: assets/images/pic09.jpg
 nav-menu: true
 show_tile: true
