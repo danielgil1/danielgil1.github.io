@@ -32,12 +32,12 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>The University of Melbourne</h3>
+					<h3><b>Research Community Coordinator</b>, The University of Melbourne</h3>
 				</header>
 				<p>As a community coordinator, I help to train researchers in emerging digital tools to work smarter in research data analysis, collection and visualisation. The aim of a “Research Community Coordinator” is to engage a community of cross-disciplinary researchers in the use of these skills, specifically in Python programming language for Natural Language Processing.</p>
 				<ul class="actions">
                     <a href="https://www.linkedin.com/in/danielgil1/" class="button icon fa fa-linkedin-square"></a>
-                    <a href="https://github.com/danielfelipegil/Introduction-to-NLTK" class="button icon fa-github">github</a>
+                    <a href="https://github.com/danielfelipegil/Introduction-to-NLTK" class="button icon fa-github"></a>
 					<li><a href="https://research.unimelb.edu.au/infrastructure/research-platform-services/training/nltk" class="button">Learn more</a></li>
 				</ul>
 			</div>
