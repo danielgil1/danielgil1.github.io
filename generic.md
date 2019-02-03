@@ -58,7 +58,7 @@ show_tile: true
                 <li>Support <a href="https://www.salesforce.com/au/?ir=1" >Jhonson&Jhonson salesforce.com</a> new internal features for Europe and Asia-Pacific.</li>
                 <li><a href="https://www.southwest.com" >Southwest Airlines</a>: support of system redesign to implement international operations outside the United States using integration with Amadeus system. My team was responsible for the delivery of the new southwest.com, the biggest low cost airline e- commerce website in the US.</li>
                 </ul>
-                <br>
+                <br/>
                 As part of my role I collaborate with my teams which were distributed across the US, Latin America, Spain and India.
                 </p>
 				<ul class="actions">
@@ -80,8 +80,8 @@ show_tile: true
                 <ul>
                 <li>Lead software design and architecture for the first on-cloud RFID enabled Warehouse Management System and inventory tracking built in Colombia introducing SAAS model.</li>
                 <li>Lead more than 20 projects for data capture automation for medium-large size companies and government agencies (Department of Defense)</li>
-                </p>
                 </ul>
+                </p>
 				<ul class="actions">
 					<li><a href="http://innobile.com" class="button">Learn more</a></li>
 				</ul>
@@ -99,13 +99,12 @@ show_tile: true
 				</header>
 				<p>
                 Ragged is in the top 50 retail stores in Colombia. As an IT Manager I was responsible of leading the technology strategy across all organisation.
-                <br>
-                Key outcomes:<br>
+                <br/>
                 <ul>
-                <li>Lead the Information Technology Strategic Plan and Execution Project (PETI) across 15 user leaders from all departments in the company.</li>
-                <li>Business Process Analysis and Project Management for the ERP Microsoft Dynamics AX implementation with Textile Vertical.</li>
-                <li>Manage more than 7 additional technology projects to support business operations</li>
-                <li>Implement ITIL v3 for service improvement and COBIT (IT Governance)</li>
+                <li>I Lead the Information Technology Strategic Plan and Execution Project (PETI) across 15 user leaders from all departments in the company.</li>
+                <li>I executed Business Process Analysis and Project Management for the ERP Microsoft Dynamics AX implementation with Textile Vertical.</li>
+                <li>I managed more than 7 additional technology projects to support business operations</li>
+                <li>Performed ITIL v3 implementation for service improvement and COBIT (IT Governance)</li>
                 </ul>
                 </p>
 				<ul class="actions">
