@@ -88,7 +88,7 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Natural Language Processing</h3>
+					<h3>Web search and Text Analysis (Natural Language Processing)</h3>
 				</header>
 				<p>Related topics:Text classification algorithms such as logistic regression; Vector space models for natural language semantics; Structured prediction, Hidden Markov models; N-gram language modelling, including statistical estimation;Alignment of parallel corpora, Term indexing, term weighting for information retrieval; Query expansion and relevance feedback</p>
 				<ul class="actions">
