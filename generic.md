@@ -32,7 +32,7 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3><b>Research Community Coordinator</b>, The University of Melbourne</h3>
+					<h3>Research Community Coordinator @ The University of Melbourne</h3>
 				</header>
 				<p>As a community coordinator, I help to train researchers in emerging digital tools to work smarter in research data analysis, collection and visualisation. The aim of a “Research Community Coordinator” is to engage a community of cross-disciplinary researchers in the use of these skills, specifically in Python programming language for Natural Language Processing.</p>
 				<ul class="actions">
@@ -50,7 +50,7 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Globant</h3>
+					<h3>Product Manager & Business Analysis @ Globant</h3>
 				</header>
 				<p>
                 <ul>
@@ -76,7 +76,7 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Innobile</h3>
+					<h3>Software Architect @ Innobile</h3>
 				</header>
 				<p>
                 <ul>
@@ -98,7 +98,7 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Ragged & Phax</h3>
+					<h3>IT Manager @ Ragged</h3>
 				</header>
 				<p>
                 Ragged is in the top 50 retail stores in Colombia. As an IT Manager I was responsible of leading the technology strategy across all organisation.
