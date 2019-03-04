@@ -27,7 +27,7 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="https://danielfelipegil.github.io/mathematical-statistics/" class="image">
+		<a href="https://danielgil1.github.io/mathematical-statistics/" class="image">
 			<img src="assets/images/rstudio.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -38,14 +38,14 @@ show_tile: true
 				<p>Basic statistical concepts including maximum likelihood, sufficiency, unbiased estimation, confidence intervals, hypothesis testing and significance levels.</p>
 				<p>Estimation of model parameters, hypothesis testing using analysis of variance, model selection, diagnostics on model assumptions, and prediction considering computational techniques, including the EM algorithm, Bayes methods and Monte-Carlo methods.</p>
 				<ul class="actions">
-					<a href="https://github.com/danielfelipegil/mathematical-statistics" class="button icon fa-github">github</a>
-					<li><a href="https://danielfelipegil.github.io/mathematical-statistics/" class="button">Learn more</a></li>
+					<a href="https://github.com/danielgil1/mathematical-statistics" class="button icon fa-github">github</a>
+					<li><a href="https://danielgil1.github.io/mathematical-statistics/" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="https://danielfelipegil.github.io/machine-learning/" class="image">
+		<a href="https://danielgil1.github.io/machine-learning/" class="image">
 			<img src="assets/images/mab01.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -55,14 +55,14 @@ show_tile: true
 				</header>
 				<p>supervised learning, semi-supervised and active learning, unsupervised learning, kernel methods, probabilistic graphical models, classifier combination, neural networks.</p>
 				<ul class="actions">
-					<a href="https://github.com/danielfelipegil/machine-learning" class="button icon fa-github">github</a>
-					<li><a href="https://danielfelipegil.github.io/machine-learning/" class="button">Learn more</a></li>
+					<a href="https://github.com/danielgil1/machine-learning" class="button icon fa-github">github</a>
+					<li><a href="https://danielgil1.github.io/machine-learning/" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="https://danielfelipegil.github.io/artificial-intelligence/" class="image">
+		<a href="https://danielgil1.github.io/artificial-intelligence/" class="image">
 			<img src="assets/images/rl01.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -75,14 +75,14 @@ show_tile: true
 				Related topics: Reinforcement Learning; Game Theory; Search algorithms and heuristic functions; Classical (AI), probabilistic and non-deterministic planning.
 				</p>
 				<ul class="actions">
-					<a href="https://github.com/danielfelipegil/artificial-intelligence" class="button icon fa-github">github</a>
-					<li><a href="https://danielfelipegil.github.io/artificial-intelligence/" class="button">Learn more</a></li>
+					<a href="https://github.com/danielgil1/artificial-intelligence" class="button icon fa-github">github</a>
+					<li><a href="https://danielgil1.github.io/artificial-intelligence/" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="https://github.com/danielfelipegil/web-search-text-analysis" class="image">
+		<a href="https://github.com/danielgil1/web-search-text-analysis" class="image">
 			<img src="assets/images/qa1.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -92,8 +92,8 @@ show_tile: true
 				</header>
 				<p>Related topics:Text classification algorithms such as logistic regression; Vector space models for natural language semantics; Structured prediction, Hidden Markov models; N-gram language modelling, including statistical estimation;Alignment of parallel corpora, Term indexing, term weighting for information retrieval; Query expansion and relevance feedback</p>
 				<ul class="actions">
-					<a href="https://github.com/danielfelipegil/web-search-text-analysis" class="button icon fa-github">github</a>
-					<li><a href="https://danielfelipegil.github.io/web-search-text-analysis/" class="button">Learn more</a></li>
+					<a href="https://github.com/danielgil1/web-search-text-analysis" class="button icon fa-github">github</a>
+					<li><a href="https://danielgil1.github.io/web-search-text-analysis/" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
