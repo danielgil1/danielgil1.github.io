@@ -70,7 +70,7 @@ show_tile: true
 
 	<section>
 		<a href="https://github.com/danielgil1/social_media_analytics" class="image">
-			<img src="assets/images/sa1.png" alt="Social Media Analytics" data-position="center center" />
+			<img src="assets/images/cc.png" alt="Social Media Analytics" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">

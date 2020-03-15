@@ -95,7 +95,7 @@ show_tile: true
 				<li>Maintained a roadmap and backlog with Client stakeholders.</li>
 				<li>Supported Jhonson & Jhonson Salesforce.com new internal features for Europe and Asia - Pacific (APAC).</li>
 				<li>Led the Offshore Business Analyst team for Southwest.com with development teams across the United States and Latin America.</li>
-				<li>Analyzed different data sources to maintain a defect backlog to prioritize the work of 20+ developers 
+				<li>Analyzed different data sources to maintain a defect backlog to prioritize the work of 20+ developers.</li>
 				</ul>
 				</p>
 				<ul class="actions">
@@ -105,6 +105,7 @@ show_tile: true
 			</div>
 		</div>
 	</section>
+
 	<section>
 		<a href="http://innobile.com" class="image">
 			<img src="assets/images/innobile.jpg" alt="Innobile" data-position="top center" />
