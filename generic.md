@@ -40,8 +40,8 @@ show_tile: true
 				What I have acomplished:<br/>
 				<ul>
 				<li>Developed machine learning model experiments for projects’ early cost prediction.</li>
-				<li>Developed machine learning pipeline framework using MLFlow to track models and deploy to docker containers / generate artifacts for tensorflow js.</li>
-				<li>Developed data model and python flask REST API backend for Estimator app to calculate project cost.</li>
+				<li>Developed machine learning pipeline framework using <a href="https://mlflow.org/">MLFlow</a> to track models and deploy to docker containers / generate artifacts for tensorflow js.</li>
+				<li>Developed data model and Python Flask REST API backend for Estimator app to calculate project cost.</li>
 				</ul>
 				</p>
 				<ul class="actions">
