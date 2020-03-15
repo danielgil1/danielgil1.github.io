@@ -118,10 +118,10 @@ show_tile: true
 				<p>
 				Innobile develop data capture automation solutions using identification technologies like RFID (Radio-Frecuency Identification) and mobile computing to enable scalable data-driven processes in the cloud.
                 <ul>
-                <li>Designed and developed the first on-cloud RFID enabled Warehouse Management System and inventory tracking built in Colombia introducing Software as a Service model.<li>
-				<li>Implemented components in Amazon Web Services (AWS) with JavaEE, Android and .NET Mobile architecture.<li>
-				<li>Led more than 20 projects for data capture automation for medium-large size companies and government agencies (Department of Defense).<li>
-				<li>Developed a partnership with  Zebra Technologies, local vendors and delivered company investors pitch, San Francisco, USA<li>
+                <li>Designed and developed the first on-cloud RFID enabled Warehouse Management System and inventory tracking built in Colombia introducing Software as a Service model.</li>
+				<li>Implemented components in Amazon Web Services (AWS) with JavaEE, Android and .NET Mobile architecture.</li>
+				<li>Led more than 20 projects for data capture automation for medium-large size companies and government agencies (Department of Defense).</li>
+				<li>Developed a partnership with  Zebra Technologies, local vendors and delivered company investors pitch, San Francisco, USA</li>
 				</ul>
                 </p>
 				<ul class="actions">
