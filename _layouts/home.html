@@ -24,9 +24,13 @@
                 <ul class="actions">
                     <li><a href="#one" class="button next scrolly">Get Started</a></li>
                 </ul>
+                <br/>
                 <p>
                     <div class="inner">
                         <ul class="icons">
+                            {% if site.cv_url %}
+                            <li><a href="{{ site.cv_url }}" class="icon alt fa fa-file-text" target="_blank"><span class="label">Resume</span></a></li>
+                            {% endif %}
                             {% if site.twitter_url %}
                             <li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
                             {% endif %}
