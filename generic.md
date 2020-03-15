@@ -25,6 +25,32 @@ show_tile: true
 
 <!-- Two -->
 <section id="two" class="spotlights">
+	<section>
+		<a href="https://www.accenture.com/hu-en/services/applied-intelligence/mywizard-intelligent-automation-platform" class="image">
+			<img src="assets/images/accenture.png" alt="Accenture" data-position="top left" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Applications Developer @ Accenture</h3>
+				</header>
+				<p>
+				myWizard AiOps team develops applications that leverage machine learning automation capabilities to optimise process efficiency productivity.
+				myWizard® is a non-disruptive, open architecture, cloud-based platform, powered by analytics and artificial intelligence that drives automation at scale.
+				What I have acomplished:<br/>
+				<ul>
+				<li>Developed machine learning model experiments for projects’ early cost prediction.</li>
+				<li>Developed machine learning pipeline framework using MLFlow to track models and deploy to docker containers / generate artifacts for tensorflow js.</li>
+				<li>Developed data model and python flask REST API backend for Estimator app to calculate project cost.</li>
+				</ul>
+				</p>
+				<ul class="actions">
+                    <a href="https://www.linkedin.com/in/danielgil1/" class="button icon fa fa-linkedin-square"></a>
+					<li><a href="https://www.accenture.com/hu-en/services/applied-intelligence/mywizard-intelligent-automation-platform" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
     <section>
 		<a href="https://research.unimelb.edu.au/infrastructure/research-platform-services" class="image">
 			<img src="assets/images/unimelb.jpg" alt="Unimelb" data-position="top center" />
@@ -34,7 +60,15 @@ show_tile: true
 				<header class="major">
 					<h3>Research Community Coordinator @ The University of Melbourne</h3>
 				</header>
-				<p>As a community coordinator, I help to train researchers in emerging digital tools to work smarter in research data analysis, collection and visualisation. The aim of a “Research Community Coordinator” is to engage a community of cross-disciplinary researchers in the use of these skills, specifically in Python programming language for Natural Language Processing.</p>
+				<p>As a community coordinator, I help to train researchers in emerging digital tools to work smarter in research data analysis, collection and visualisation. The aim of a “Research Community Coordinator” is to engage a community of cross-disciplinary researchers in the use of these skills, specifically in Python programming language for Natural Language Processing.
+				What I have acomplished:<br/>
+				<ul>
+				<li>Led a community at Research Computing Services with 150+ graduate researchers helping to analyze large text datasets using python and natural language processing.</li>
+				<li>Conducted workshops, trainings and meetups to discuss natural language processing </li>
+				<li>Developed multimedia content to engage the research community.</li>
+
+				</ul>
+				</p>
 				<ul class="actions">
                     <a href="https://www.linkedin.com/in/danielgil1/" class="button icon fa fa-linkedin-square"></a>
                     <a href="https://github.com/danielfelipegil/Introduction-to-NLTK" class="button icon fa-github"></a>
@@ -50,18 +84,20 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Product Manager & Business Analysis @ Globant</h3>
+					<h3>Senior Business Analyst & Product Manager @ Globant</h3>
 				</header>
 				<p>
-                <ul>
-                <li><a href="https://www.openbank.es/en" >Openbank</a>: product analysis and delivery for mortgages, loans and insurance products.
-                Openbank is the digital bank from Santander Group in Spain. Globant teams built from scratch the new digital platform, an entire online banking. My teams were responsible of Mortgages product which led to an important revenue increase. We also launch loans products and started the definition to build an insurance suite to launch on 2018.</li>
-                <li>Support <a href="https://www.salesforce.com/au/?ir=1" >Jhonson&Jhonson salesforce.com</a> new internal features for Europe and Asia-Pacific.</li>
-                <li><a href="https://www.southwest.com" >Southwest Airlines</a>: support of system redesign to implement international operations outside the United States using integration with Amadeus system. My team was responsible for the delivery of the new southwest.com, the biggest low cost airline e- commerce website in the US.</li>
-                </ul>
-                <br/>
-                As part of my role I collaborate with my teams which were distributed across the US, Latin America, Spain and India.
-                </p>
+				Globant <b>(NYSE: GLOB)</b> is an IT and Software Development company operating in Argentina, Colombia,
+				Uruguay, the United Kingdom, Brazil, the United States, Peru, India, Mexico, Chile and Spain
+                What I have acomplished:<br/>
+				<ul>
+                <li>Led product definition with a distributed development team across Latin America and Spain for Mortgages and Loans at the OpenBank, the digital bank of Santander Group.</li>
+				<li>Maintained a roadmap and backlog with Client stakeholders.</li>
+				<li>Supported Jhonson & Jhonson Salesforce.com new internal features for Europe and Asia - Pacific (APAC).</li>
+				<li>Led the Offshore Business Analyst team for Southwest.com with development teams across the United States and Latin America.</li>
+				<li>Analyzed different data sources to maintain a defect backlog to prioritize the work of 20+ developers 
+				</ul>
+				</p>
 				<ul class="actions">
                     <a href="https://www.linkedin.com/in/danielgil1/" class="button icon fa fa-linkedin-square"></a>
 					<li><a href="https://www.globant.com" class="button">Learn more</a></li>
@@ -76,13 +112,16 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>TM & Software Architect @ Innobile</h3>
+					<h3>Lead Software Architect @ Innobile</h3>
 				</header>
 				<p>
+				Innobile develop data capture automation solutions using identification technologies like RFID (Radio-Frecuency Identification) and mobile computing to enable scalable data-driven processes in the cloud.
                 <ul>
-                <li>Lead software design and architecture for the first on-cloud RFID enabled Warehouse Management System and inventory tracking built in Colombia introducing SAAS model.</li>
-                <li>Lead more than 20 projects for data capture automation for medium-large size companies and government agencies (Department of Defense)</li>
-                </ul>
+                <li>Designed and developed the first on-cloud RFID enabled Warehouse Management System and inventory tracking built in Colombia introducing Software as a Service model.<li>
+				<li>Implemented components in Amazon Web Services (AWS) with JavaEE, Android and .NET Mobile architecture.<li>
+				<li>Led more than 20 projects for data capture automation for medium-large size companies and government agencies (Department of Defense).<li>
+				<li>Developed a partnership with  Zebra Technologies, local vendors and delivered company investors pitch, San Francisco, USA<li>
+				</ul>
                 </p>
 				<ul class="actions">
                     <a href="https://www.linkedin.com/in/danielgil1/" class="button icon fa fa-linkedin-square"></a>
@@ -104,10 +143,10 @@ show_tile: true
                 Ragged is in the top 50 retail stores in Colombia. As an IT Manager I was responsible of leading the technology strategy across all organisation.
                 <br/>
                 <ul>
-                <li>I Lead the Information Technology Strategic Plan and Execution Project (PETI) across 15 user leaders from all departments in the company.</li>
-                <li>I executed Business Process Analysis and Project Management for the ERP Microsoft Dynamics AX implementation with Textile Vertical.</li>
-                <li>I managed more than 7 additional technology projects to support business operations</li>
-                <li>Performed ITIL v3 implementation for service improvement and COBIT (IT Governance)</li>
+                <li>Led the Information Technology Strategic Plan and Execution Project (PETI) across 15 user leaders from all departments in the company.</li>
+				<li>Performed Data Analysis and Business Process Analysis for the ERP Microsoft Dynamics AX implementation with Fashion & Textile Vertical.</li>
+				<li>Implemented  more than 7 additional technology projects to support business operations</li>
+				<li>Implemented ITIL v3 for service improvement and COBIT (IT Governance)</li>
                 </ul>
                 </p>
 				<ul class="actions">
