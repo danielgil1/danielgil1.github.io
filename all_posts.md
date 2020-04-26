@@ -1,10 +1,10 @@
 ---
 layout: allposts
-title: All posts
+title: My blog
 landing-title: 'All posts'
 nav-menu: true
-description: My blog
-image: assets/images/pic07.jpg
+description: Tutorials, how-to, concepts and related stories
+image: assets/images/linal.jpg
 author: Daniel
 show_tile: true
 ---
