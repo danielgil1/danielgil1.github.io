@@ -55,6 +55,31 @@ show_tile: true
 			</div>
 		</div>
 	</section>
+
+	<section>
+		<a href="https://www.insitusales.com/en/" class="image">
+			<img src="assets/images/insitu.png" alt="Insitu Sales" data-position="top right" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Data Scientist (Consultant) @ Insitu Sales</h3>
+				</header>
+				<p>
+				Smart Orders prediction
+				What I have acomplished:<br/>
+				<ul>
+				<li>Designed and implemented Microsoft Azure Data Factory Pipeline.</li>
+				<li>Implemented Machine Learning models and pipeline (MLAzure) for time series forecasting.</li>
+				</ul>
+				</p>
+				<ul class="actions">
+                    <a href="https://www.linkedin.com/in/danielgil1/" class="button icon fa fa-linkedin-square"></a>
+				</ul>
+			</div>
+		</div>
+	</section>
+
     <section>
 		<a href="https://research.unimelb.edu.au/infrastructure/research-platform-services" class="image">
 			<img src="assets/images/unimelb.jpg" alt="Unimelb" data-position="top center" />
