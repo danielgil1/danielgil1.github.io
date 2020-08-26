@@ -32,7 +32,7 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Applications Developer @ Accenture</h3>
+					<h3>Advanced APP Engineering Specialist @ Accenture</h3>
 				</header>
 				<p>
 				myWizard AiOps team develops applications that leverage machine learning automation capabilities to optimise process efficiency productivity.
