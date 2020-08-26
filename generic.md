@@ -41,7 +41,11 @@ show_tile: true
 				<ul>
 				<li>Developed machine learning model experiments for projects’ early cost prediction.</li>
 				<li>Developed machine learning pipeline framework using <a href="https://mlflow.org/">MLFlow</a> to track models and deploy to docker containers / generate artifacts for tensorflow js.</li>
-				<li>Developed data model and Python Flask REST API backend for Estimator app to calculate project cost.</li>
+				<li>Implemented Natural Language Processing Deep Learning model to extract entities from user feedback.</li>
+				<li>Implemented a data pipeline with Apache Airflow.</li>
+				<li>Implemented data visualization dashboards with Apache Superset.</li>
+				<li>Developed data model and python flask REST API backend for Estimator app to calculate project cost.</li>
+				<li>Elaborated a proof of concept to integrate myWizard Automatic Ticket Resolver (ATR) with Digital Desk chatbot.</li>
 				</ul>
 				</p>
 				<ul class="actions">
