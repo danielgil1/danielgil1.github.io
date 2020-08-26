@@ -33,6 +33,7 @@ show_tile: true
 			<div class="inner">
 				<header class="major">
 					<h3>Advanced APP Engineering Specialist @ Accenture</h3>
+					<h5>Sept 2019 - Present. Melbourne, Australia</h5>
 				</header>
 				<p>
 				myWizard AiOps team develops applications that leverage machine learning automation capabilities to optimise process efficiency productivity.
@@ -63,7 +64,7 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Data Scientist (Consultant) @ Insitu Sales</h3>
+					<h3>Data Scientist @ Insitu Sales</h3>
 				</header>
 				<p>
 				Smart Orders prediction
