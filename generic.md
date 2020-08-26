@@ -65,6 +65,8 @@ show_tile: true
 			<div class="inner">
 				<header class="major">
 					<h3>Data Scientist @ Insitu Sales</h3>
+					<h5>Freelance</h5>
+					<h5>Apr 2020 - Present. Los Angeles, USA</h5>
 				</header>
 				<p>
 				Smart Orders prediction
@@ -72,6 +74,34 @@ show_tile: true
 				<ul>
 				<li>Designed and implemented Microsoft Azure Data Factory Pipeline.</li>
 				<li>Implemented Machine Learning models and pipeline (MLAzure) for time series forecasting.</li>
+				</ul>
+				</p>
+				<ul class="actions">
+                    <a href="https://www.linkedin.com/in/danielgil1/" class="button icon fa fa-linkedin-square"></a>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="https://www.seek.com.au" class="image">
+			<img src="assets/images/seek-logo.jpg" alt="SEEK" data-position="top left" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Data Scientist (Capstone Project with Unimelb) @ Seek</h3>
+					<h5>Mar 2019 - Nov 2019. Melbourne, Australia</h5>
+				</header>
+				<p>
+				Smart Orders prediction
+				What I have acomplished:<br/>
+				<ul>
+				<li>Implemented Natural Language Processing Deep Learning model to extract entities from Job Ads (Named Entity Recognition)</li>
+				<li>Trained and evaluated a Language Model for contextual word embeddings in 500K jobs ads.</li>
+				<li>Evaluated pre-trained word embeddings performance like BERT and GPT-2</li>
+				<li>Performed Exploratory Data Analysis for 500K+ job ads</li>
+				<li>Developed sampling data strategy and performed data cleaning and annotation tasks</li>
+
 				</ul>
 				</p>
 				<ul class="actions">
@@ -89,6 +119,7 @@ show_tile: true
 			<div class="inner">
 				<header class="major">
 					<h3>Research Community Coordinator @ The University of Melbourne</h3>
+					<h5>Apr 2020 - Present. Los Angeles, USA</h5>
 				</header>
 				<p>As a community coordinator, I help to train researchers in emerging digital tools to work smarter in research data analysis, collection and visualisation. The aim of a “Research Community Coordinator” is to engage a community of cross-disciplinary researchers in the use of these skills, specifically in Python programming language for Natural Language Processing.
 				What I have acomplished:<br/>
