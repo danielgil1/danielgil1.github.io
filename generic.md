@@ -28,6 +28,7 @@ show_tile: true
 	<section>
 		<a href="https://homes.com.au/buy" class="image">
 			<img src="assets/images/homes.png" alt="Homes.com.au" data-position="top left" />
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
