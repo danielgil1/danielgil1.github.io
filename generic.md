@@ -26,13 +26,44 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Senior Data Scientist @ Homes.com.au</h3>
+					<h5>Jan 2020 - Present. Melbourne, Australia</h5>
+				</header>
+				<p>
+				My role supports the user engagement through Artificial Intelligence and Data enablement to improve the search experience and personalisation using different techniques and tools. In addition, I am helping to build the data science practice, mentor junior data scientists and collaborate with product and engineering stakeholders. <br/>
+				<ul>
+				<li>Implemented information extraction and generation models in text and images to:
+					- Extract features from text data implementing Natural Language Models 
+					- Detect / extract objects from images implementing contrastive learning computer vision models
+					- Artificial text generation 
+					</li>
+				<li>Built vector representations using supervised and unsupervised models for downstream tasks e.g. object similarity.</li>
+				<li>Currently developing an initiative to use behavioural data and insights to customize the user journey</li>
+				<li>Implemented Item to item based recommendations.</li>
+				<li>Designed and implemented data pipelines orchestration with Apache Airflow and AWS Data Lake storage to generate clean and curated datasets for analytics and machine learning.</li>
+				<li>Implemented big data transformations with pyspark and SQL based DBT models.</li>
+				<li>Geospatial and time series analytics.</li>
+				</ul>
+				</p>
+				<ul class="actions">
+                    <a href="https://www.linkedin.com/in/danielgil1/" class="button icon fa fa-linkedin-square"></a>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
 		<a href="https://www.accenture.com/hu-en/services/applied-intelligence/mywizard-intelligent-automation-platform" class="image">
 			<img src="assets/images/accenture.png" alt="Accenture" data-position="top left" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Advanced APP Engineering Specialist @ Accenture</h3>
+					<h3>Data Scientist | Advanced APP Engineering Specialist @ Accenture</h3>
 					<h5>Sept 2019 - Present. Melbourne, Australia</h5>
 				</header>
 				<p>
@@ -58,22 +89,20 @@ show_tile: true
 	</section>
 
 	<section>
-		<a href="https://www.insitusales.com/en/" class="image">
-			<img src="assets/images/insitu.png" alt="Insitu Sales" data-position="top right" />
-		</a>
+
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Data Scientist @ Insitu Sales</h3>
+					<h3>Data Specialist @ Freelance</h3>
 					<h5>Freelance</h5>
 					<h5>Apr 2020 - Present. Los Angeles, USA</h5>
 				</header>
 				<p>
-				Smart Orders prediction
-				What I have acomplished:<br/>
+				Implemented consultancy work in Latin America, US and Europe for projects involving: <br/>
 				<ul>
-				<li>Designed and implemented Microsoft Azure Data Factory Pipeline.</li>
-				<li>Implemented Machine Learning models and pipeline (MLAzure) for time series forecasting.</li>
+				<li>ML on audio data to implement voice-based interactions</li>
+				<li>Data pipelines and ML for time series forecasting</li>
+				<li>Data pipelines and data governance consultancy projects</li>
 				</ul>
 				</p>
 				<ul class="actions">
