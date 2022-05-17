@@ -26,7 +26,8 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-
+		<a href="https://homes.com.au/buy" class="image">
+			<img src="assets/images/homes.png" alt="Homes.com.au" data-position="top left" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
