@@ -33,22 +33,28 @@ show_tile: true
 			<div class="inner">
 				<header class="major">
 					<h3>Senior Data Scientist @ Homes.com.au</h3>
-					<h5>Jan 2020 - Present. Melbourne, Australia</h5>
+					<h5>Jan 2021 - Present. Melbourne, Australia</h5>
 				</header>
 				<p>
-				My role supports the user engagement through Artificial Intelligence and Data enablement to improve the search experience and personalisation using different techniques and tools. In addition, I am helping to build the data science practice, mentor junior data scientists and collaborate with product and engineering stakeholders. <br/>
+				My role supports the user engagement through artificial intelligence and data capabilities to improve the search experience and personalisation. I am also a contributor to build the data science practice, mentor junior data scientists and collaborate with product and engineering stakeholders with the following achievements: <br/>
 				<ul>
-				<li>Implemented information extraction and generation models in text and images to:
-					- Extract features from text data implementing Natural Language Models 
-					- Detect / extract objects from images implementing contrastive learning computer vision models
-					- Artificial text generation 
-					</li>
-				<li>Built vector representations using supervised and unsupervised models for downstream tasks e.g. object similarity.</li>
-				<li>Currently developing an initiative to use behavioural data and insights to customize the user journey</li>
-				<li>Implemented Item to item based recommendations.</li>
-				<li>Designed and implemented data pipelines orchestration with Apache Airflow and AWS Data Lake storage to generate clean and curated datasets for analytics and machine learning.</li>
-				<li>Implemented big data transformations with pyspark and SQL based DBT models.</li>
-				<li>Geospatial and time series analytics.</li>
+				<li>Implemented a RAG (Retrieval Augmented Generation) solution across thousands of real estate listings daily using LLM Anthropic Claude through AWS Bedrock.</li>
+				<li>Implemented multi-modal content-based recommendation system based on users’ shortlisted real estate listings.</li>
+				<li>Implemented multi-modal algorithms to extract topics and concepts from real estate listings text, images and spatial data to be used in downstream tasks e.g. search.</li>
+				<li>Implemented algorithms to rank real estate images for personalised user experience.</li>
+				<li>Productionized ML models to be consumed as APIs or batch operations aligned to data and engineering practices like Infra as code, containerization, model governance, event-driven
+				architectures, big data processing, online and offline inference.</li>
+				<li>Designed and implemented AWS SageMaker ML pipelines that enables MLOps through
+				experimentation, model artifacts governance and deployment.</li>
+				<li>Built vector embeddings representations that support multimodal search and
+				recommendations representing items and user interaction profiles while communicating
+				business value to internal stakeholders through clustering and visualisation techniques.</li>
+				<li>Designed and implemented data pipelines with Airflow, Dagster and AWS Data Lake storage to generate clean and curated datasets for analytics and machine learning Implemented big data transformations and data catalog with pyspark, SQL and DBT
+				models.</li>
+				<li>Delivered data visualizations for business stakeholders using tabular, geospatial and time
+				series data.</li>
+				<li>Demonstrated AI value with proof of concepts prototyping ML apps using a combination of
+				streamlit, jupyter notebooks and metrics evaluations/visualisations.
 				</ul>
 				</p>
 				<ul class="actions">
@@ -66,7 +72,7 @@ show_tile: true
 			<div class="inner">
 				<header class="major">
 					<h3>Data Scientist | Advanced APP Engineering Specialist @ Accenture</h3>
-					<h5>Sept 2019 - Present. Melbourne, Australia</h5>
+					<h5>Sept 2019 - Dec 2020. Melbourne, Australia</h5>
 				</header>
 				<p>
 				myWizard AiOps team develops applications that leverage machine learning automation capabilities to optimise process efficiency productivity.
@@ -78,7 +84,7 @@ show_tile: true
 				<li>Implemented Natural Language Processing Deep Learning model to extract entities from user feedback.</li>
 				<li>Implemented a data pipeline with Apache Airflow.</li>
 				<li>Implemented data visualization dashboards with Apache Superset.</li>
-				<li>Developed data model and python flask REST API backend for Estimator app to calculate project cost.</li>
+				<li>Developed data model and python flask REST API backend for Estimator app to estimate project cost.</li>
 				<li>Elaborated a proof of concept to integrate myWizard Automatic Ticket Resolver (ATR) with Digital Desk chatbot.</li>
 				</ul>
 				</p>
