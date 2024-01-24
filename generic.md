@@ -36,25 +36,17 @@ show_tile: true
 					<h5>Jan 2021 - Present. Melbourne, Australia</h5>
 				</header>
 				<p>
-				My role supports the user engagement through artificial intelligence and data capabilities to improve the search experience and personalisation. I am also a contributor to build the data science practice, mentor junior data scientists and collaborate with product and engineering stakeholders with the following achievements: <br/>
+				My role supports the user engagement through AI and data capabilities to improve the search experience and personalisation in the form of data and ML end-to-end products, from acquiring the raw data, build data pipelines to ingest into a data lake and build ML pipelines for train and inference using CICD and IaC terraform to meet Engineering best practices.
+				I am also a contributor to build the data science practice, mentor junior data scientists and collaborate with product and engineering stakeholders with the following achievements: <br/>
 				<ul>
-				<li>Implemented a RAG (Retrieval Augmented Generation) solution across thousands of real estate listings daily using LLM Anthropic Claude through AWS Bedrock.</li>
-				<li>Implemented multi-modal content-based recommendation system based on users’ shortlisted real estate listings.</li>
-				<li>Implemented multi-modal algorithms to extract topics and concepts from real estate listings text, images and spatial data to be used in downstream tasks e.g. search.</li>
-				<li>Implemented algorithms to rank real estate images for personalised user experience.</li>
-				<li>Productionized ML models to be consumed as APIs or batch operations aligned to data and engineering practices like Infra as code, containerization, model governance, event-driven
-				architectures, big data processing, online and offline inference.</li>
-				<li>Designed and implemented AWS SageMaker ML pipelines that enables MLOps through
-				experimentation, model artifacts governance and deployment.</li>
-				<li>Built vector embeddings representations that support multimodal search and
-				recommendations representing items and user interaction profiles while communicating
-				business value to internal stakeholders through clustering and visualisation techniques.</li>
-				<li>Designed and implemented data pipelines with Airflow, Dagster and AWS Data Lake storage to generate clean and curated datasets for analytics and machine learning Implemented big data transformations and data catalog with pyspark, SQL and DBT
-				models.</li>
-				<li>Delivered data visualizations for business stakeholders using tabular, geospatial and time
-				series data.</li>
-				<li>Demonstrated AI value with proof of concepts prototyping ML apps using a combination of
-				streamlit, jupyter notebooks and metrics evaluations/visualisations.
+				<li>Implemented a RAG (Retrieval Augmented Generation) across thousands of daily real estate listings increasing coverage by 25% using LLM Anthropic Claude (AWS Bedrock) and guardrails.</li>
+				<li>Implemented multi-modal content-based recsys based on users’ shortlisted real estate listings achieving a 0.78(precision@5) utilising PyTorch and NVIDIA frameworks for GPU optimisations.</li>
+				<li>Implemented multi-modal algorithms to extract concepts from text, images and spatial data to be used in downstream tasks.</li>
+				<li>Implemented algorithms to rank listing images for a personalised UX achieving 0.89(precision@1). </li>
+				<li>Productionized ML models to be consumed as APIs or batch operations aligned to data and engineering practices like Infra as code, containerization, model governance, big data processing, online/offline inference.</li>
+				<li>Designed and implemented AWS SageMaker ML pipelines that enables MLOps through experimentation, model artifacts governance and deployment.</li>
+				<li>Built vector embeddings representations that support multimodal search and recommendations representing items and user interaction profiles while communicating business value to internal stakeholders through clustering and visualisation techniques.</li>
+				<li>Designed and implemented data pipelines with Airflow, Dagster and AWS Data Lake storage to generate clean and curated datasets for analytics and machine learning Implemented big data transformations and data catalog with pyspark, SQL and DBT models</li>
 				</ul>
 				</p>
 				<ul class="actions">
